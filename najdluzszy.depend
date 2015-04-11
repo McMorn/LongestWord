@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428531995 source:c:\users\pawe³\skydrive\studia\semestr ii\pk\projekt\najdluzszy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
