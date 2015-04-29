@@ -48,3 +48,12 @@ void writeToFile(char** listOfWords)
     for(i=0; i<howMany; i++)
         fprintf(outputFile, "%s\n", listOfWords[i]);
 }
+
+
+int closeFiles()
+{
+    fclose(inputFile);
+    fclose(outputFile);
+
+    return 0;
+}

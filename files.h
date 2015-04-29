@@ -7,7 +7,9 @@
 Paths findPaths(int paramSize, char* param[]);
 
 void openFiles(Paths path);
+
 void writeToFile(char** listOfWords);
 
+int closeFiles();
 
 #endif /* FILES_H_INCLUDED */

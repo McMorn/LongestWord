@@ -13,5 +13,5 @@ int main(int argc, char *argv[])
     writeToFile(findWords(analyzeWords()));
 
 
-    return 0;
+    return closeFiles();
 }
