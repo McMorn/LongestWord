@@ -4,3 +4,28 @@
 	<stdlib.h>
 	<string.h>
 
+1430346525 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"resolution.h"
+	"files.h"
+
+1429292389 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\structs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1430346947 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.h
+	"structs.h"
+
+1430346947 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.c
+	"resolution.h"
+
+1430346947 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.c
+	"files.h"
+
+1430346947 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.h
+	"structs.h"
+

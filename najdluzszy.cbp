@@ -32,9 +32,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="files.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="files.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="resolution.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="resolution.h" />
+		<Unit filename="structs.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
