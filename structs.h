@@ -8,11 +8,6 @@
 
 FILE *inputFile, *outputFile;
 
-typedef struct
-{
-    char *inputFilePath;
-    char *outputFilePath;
-} Paths;
 
 typedef struct
 {

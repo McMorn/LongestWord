@@ -8,7 +8,7 @@
 
 int main(int argc, char *argv[])
 {
-    openFiles(findPaths(argc, argv));
+    initProgram(argc, argv);
 
     writeToFile(findWords(analyzeWords()));
 

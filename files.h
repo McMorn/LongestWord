@@ -4,9 +4,7 @@
 #include "structs.h"
 
 
-Paths findPaths(int paramSize, char* param[]);
-
-void openFiles(Paths path);
+void initProgram(int paramSize, char* param[]);
 
 void writeToFile(char** listOfWords);
 
