@@ -24,13 +24,12 @@ void initProgram(int paramSize, char* param[])
 }
 
 
-void writeToFile(char** listOfWords)
+void writeToFile(Words words)
 {
     int i;
-    unsigned howMany = sizeof(listOfWords) / sizeof(char);
 
-    for(i=0; i<howMany; i++)
-        fprintf(outputFile, "%s\n", listOfWords[i]);
+    for(i=0; i<words.amount; i++)
+        fprintf(outputFile, "%s\n", words.enumeration[i]);
 }
 
 

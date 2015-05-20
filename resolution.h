@@ -4,9 +4,9 @@
 #include "structs.h"
 
 
-PropertiesWords analyzeWords();
+Words analyzeWords();
 
-char** findWords(PropertiesWords prop);
+Words findWords(Words words);
 
 
 #endif /* RESOLUTION_H_INCLUDED */

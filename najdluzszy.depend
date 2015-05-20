@@ -4,7 +4,7 @@
 	<stdlib.h>
 	<string.h>
 
-1430499838 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\main.c
+1430511403 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -12,20 +12,20 @@
 	"resolution.h"
 	"files.h"
 
-1430499889 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\structs.h
+1432131934 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\structs.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1430353774 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.h
+1432129373 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.h
 	"structs.h"
 
-1430353774 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.c
+1432131685 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\resolution.c
 	"resolution.h"
 
-1430499909 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.c
+1432129373 source:c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.c
 	"files.h"
 
-1430499909 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.h
+1432129373 c:\users\pawe許skydrive\studia\semestr ii\pk\projekt\longestword\files.h
 	"structs.h"
 

@@ -11,9 +11,10 @@ FILE *inputFile, *outputFile;
 
 typedef struct
 {
-    int howMany;
+    int amount;
     int length;
-} PropertiesWords;
+    char **enumeration;
+} Words;
 
 
 #endif /* STRUCTS_H_INCLUDED */

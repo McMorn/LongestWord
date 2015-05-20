@@ -6,7 +6,7 @@
 
 void initProgram(int paramSize, char* param[]);
 
-void writeToFile(char** listOfWords);
+void writeToFile(Words words);
 
 int closeFiles();
 
