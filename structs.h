@@ -11,9 +11,9 @@ FILE *inputFile, *outputFile;
 
 typedef struct
 {
-    int amount;
-    int length;
-    char **enumeration;
+    int amount; /**< przechowuje ilosc znalezionych slow */
+    int length; /**< przechowuje dlugosc najdluzszego slowa */
+    char **enumeration; /**< tablica 2D do ktorej zostana zapisane znalezione slowa */
 } Words;
 
 

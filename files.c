@@ -7,6 +7,13 @@ void initProgram(int paramSize, char* param[])
 
     for (i=0; i<paramSize; i++)
     {
+        if(strcmp(param[i],"-h") == 0)
+        {
+            printf("Porogram powinien byc wywolany z opcjami\n");
+            printf("program.exe -i <sciezka do pliku wejsciowego> -o <sciezka do pliku wyjsciowego>\n");
+            exit(0);
+        }
+
         if(strcmp(param[i],"-i") == 0)
             if((inputFile = fopen(param[i+1],"rt")) == NULL)
             {
